@@ -1,7 +1,5 @@
 // App.js
 import React, { useState } from 'react';
-//import { updateRemitlyExchangeRate, updateExtraCharges, getRemitlyExchangeRate, getExtraCharges } from './remitly';
-//import { updateXeExchangeRate, updateExtraCharges, getXeExchangeRate, getExtraCharges} from './xe';
 import './styles.css'; // Import your CSS file
 
 import Remitly from './remitly';
